@@ -12,9 +12,9 @@ We decided to produce a minimal viable product before completing the Socket Midd
 ---
 
 ### Important Links
-- [Client Repository](https://github.com/Mandeloreann/chat-room-express-2)
-- [Deployed Client](https://mandeloreann.github.io/chat-room/#/)
-- [Deployed API](https://chatroommm.herokuapp.com/)
+- [API Repository](https://github.com/puleri/ColdFusion-Express-Backend)
+- [Deployed Client](https://puleri.github.io/ColdFusion-Basic-Crud/)
+- [Deployed API](https://glacial-oasis-78781.herokuapp.com/)
 
 ---
 
