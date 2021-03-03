@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Ortus-Solutions/JSONPrettyPrint.svg?branch=master)](https://travis-ci.org/Ortus-Solutions/JSONPrettyPrint)
+[![Build Status](https://travis-ci.org/Ortus-Solutions/JSONPrettyPrint.svg?branch=main)](https://travis-ci.org/Ortus-Solutions/JSONPrettyPrint)
 
 Pretty print JSON objects with line breaks and indentation to make it more human readable.
 If you have an app that writes JSON files that humans need to easily be able to read, run the JSON through this library first.  By default, it doesn't modify the data at all-- only the whitespace. It can, however, sort JSON object keys for you if you wish.
