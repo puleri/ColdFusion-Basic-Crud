@@ -1,0 +1,8 @@
+{
+    "dependencies":{
+        "cfconfig-services":"^1.10.3"
+    },
+    "installPaths":{
+        "cfconfig-services":"modules/cfconfig-services/"
+    }
+}
